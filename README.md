@@ -11,5 +11,5 @@ Style five cards each with background images and headings. Use Flexbox to align 
 View the Expanding Cards here: https://marisabrantley.github.io/expanding-cards/
 
 ## Class
-*Brad Traversy's Udemy Course "50 Projects in 50 Days"*
+*Brad Traversy's Udemy Course "50 Projects in 50 Days"* </br>
 https://www.udemy.com/course/50-projects-50-days/
